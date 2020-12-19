@@ -1,0 +1,9 @@
+name: DynmapGui
+version: ${project.version}
+main: com.oskarsmc.dynmapgui.DynmapGui
+api-version: 1.16
+prefix: DynmapGui
+depend: [ Dynmap ]
+authors: [ OskarsMC, OskarZyg ]
+description: Dynmap GUI Plugin
+website: https://oskarsmc.ddns.net/
